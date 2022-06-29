@@ -17,7 +17,7 @@
       "inline"
     ],
     "website": "https://github.com/CyniteOfficial",
-    "repository": "https://github.com/CyniteOfficial/Auto-Filter-Bot",
+    "repository": "https://github.com/kurunari7/cat_Auto-Filter-Bot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
